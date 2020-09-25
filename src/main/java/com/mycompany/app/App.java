@@ -14,6 +14,6 @@ public class App {
   }
 
   private String getMessage() {
-    return message;
+    return message; 
   }
 }
